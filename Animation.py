@@ -28,7 +28,7 @@ anim = ani.FuncAnimation(fig, Life, frames=len(x), interval=15, blit=True, repea
 fig.suptitle("Life is all about the intersection\n of Success & Failure")
 fig.patch.set_facecolor("lime")
 fig.tight_layout()
-plt.annotate("Courtesy Rishikesh Jha", (8.5,-11))
+plt.annotate("Courtesy of Rishikesh Jha", (8.5,-11))
 plt.legend(loc="upper center")
 plt.axis(False)
 plt.show()
