@@ -1,2 +1,2 @@
 # An-intersection-of-Success-and-Failure
-Here, the programmer created a simple animation showing that life is all about the intersection of success and failure.
+By using basic math functions like floor(x), ceil(x), an attempt has been made to show that life is all about the intersection of success and failure.
